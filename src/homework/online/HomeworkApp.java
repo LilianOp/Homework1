@@ -8,7 +8,7 @@ public class HomeworkApp {
         printColor();
         compareNumbers();
     }
-
+// из меин метода запускаем все остальные
 
     public static void ThreeWords() {
         System.out.println("_Orange");
